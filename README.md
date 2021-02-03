@@ -24,9 +24,9 @@
 * Quantumult X商店版集成脚本版（京东系列脚本已失效，请自行修改！）：适用于iOS系统低于14的老手机，比如iPhone6
 * [w37fhy_diy.conf](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/w37fhy_diy.conf)
 ### Quantumult X远程配置（停止更新）：
-* [JS.conf](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/JS.conf) 脚本远程订阅
-* [JS_COOKIE.conf](https://github.com/w37fhy/QuantumultX/blob/master/js_cookie.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
-* [TASK.conf](https://github.com/w37fhy/QuantumultX/blob/master/task.conf) 定时任务远程配置,目前无法订阅,请手动根据个人需求复制内容及修改时间
+* [JS.conf](https://raw.githubusercontent.com/pugdog29/QuantumultX/master/JS-vida.conf) 脚本远程订阅
+* [JS_COOKIE.conf](https://raw.githubusercontent.com/pugdog29/QuantumultX/master/js_cookie_vida.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
+* [TASK.conf](https://raw.githubusercontent.com/pugdog29/QuantumultX/master/task_vida.conf) 定时任务远程配置,目前无法订阅,请手动根据个人需求复制内容及修改时间
 ### Surge 懒人配置：（2021.1.21更新）
 * 精简版：（只包含策略组和分流规则，没有重写规则、定时任务，都需要自己添加）
 * [surge_lite.conf](https://raw.githubusercontent.com/w37fhy/QuantumultX/master/surge_lite.conf)
